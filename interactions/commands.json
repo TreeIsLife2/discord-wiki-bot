@@ -11,4 +11,23 @@
 			}
 		]
 	}
+	
+	{
+		"name": "wiki",
+		"description": "Link to a wiki.",
+		"options": [
+			{
+				"type": 3,
+				"name": "page",
+				"description": "Page/function name",
+				"requiered": true
+			}
+			{
+				"type": 3,
+				"name": "wiki",
+				"description": "The wiki name",
+				"requiered": false
+			}
+
+		]
 ]
